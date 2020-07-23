@@ -10,3 +10,11 @@ lstm ROC:
 lstm PRC: 
 
 ![img2](https://github.com/mohammad-abdollahi/imdb-classification/blob/master/lstm_prc.png)
+
+GRU ROC:
+
+![img3](https://github.com/mohammad-abdollahi/imdb-classification/blob/master/gru_rpc.png)
+
+GRU PRC:
+
+![img4](https://github.com/mohammad-abdollahi/imdb-classification/blob/master/gru_prc.png)
